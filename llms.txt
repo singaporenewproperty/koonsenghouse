@@ -1,0 +1,9 @@
+# Koon Seng House
+
+> Koon Seng House — Premium property listing in Singapore.
+
+- Canonical Origin: https://singaporenewproperty.github.io/koonsenghouse/
+
+## Pages
+
+- [Koon Seng House](https://singaporenewproperty.github.io/koonsenghouse/): Koon Seng House property information.
